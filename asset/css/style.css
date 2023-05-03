@@ -1,0 +1,15 @@
+.sad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.time {
+    display: inline-block;
+    font-size: 26px;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    color: white;
+    background-color: black;
+}
